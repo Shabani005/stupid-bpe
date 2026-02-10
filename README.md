@@ -1,7 +1,7 @@
 # The most stupid BPE implementation to ever exist
 
 > [!CAUTION]
-> DO NOT USE THIS IF YOU ARE LOOKING FOR A SERIOUS SOLUTION, IT **WILL** CRASH YOUR SERVER
+> DO NOT USE THIS IF YOU ARE LOOKING FOR A SERIOUS SOLUTION, IT **WILL** CRASH YOUR COMPUTER
 
 ```console
   gcc -o bpe bpe.c
